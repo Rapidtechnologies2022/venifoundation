@@ -1,5 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
+// CSS
+import "./assets/css/Style.css";
+import 'bootstrap/dist/css/bootstrap.min.css';
 import Nav from './components/Navbar/Nav';
 import {Route,Switch} from 'react-router-dom';
 import Home from './components/Navbar/Home';

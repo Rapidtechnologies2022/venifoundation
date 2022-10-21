@@ -1,8 +1,8 @@
 import Carousel from 'react-bootstrap/Carousel';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import './Home.css';
-function Home() {
-  return (
+import Home1 from '../homecontainer/home1';
+import Sideimage from '../homecontainer/sideimage';
+function UncontrolledExample() {
+  return (<>
     <Carousel>
       <Carousel.Item>
         <img
@@ -37,7 +37,11 @@ function Home() {
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>
+    <Home1/>
+    <Sideimage/>
+    
+    </>
   );
 }
 
-export default Home;
+export default UncontrolledExample;

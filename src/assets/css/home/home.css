@@ -11,4 +11,44 @@
     font-weight: 800;
     margin-bottom: 150px;
 }
+/* home1css */
+.testimonial-sec img {
+    width: 520px;
+    float: right;
+   margin-top:30px;
+}
 
+#vd{
+    background-color: #fcf2eb;
+}
+.testimonial{
+    padding: 50px 0px;
+    
+}
+.testimonial h1 {
+    color: #2977c9;
+}
+.testimonial p {
+    color: #000;
+    font-size: 25px;
+    font-weight: 300;
+}
+/* sideimage section */
+.sideimage-sec img {
+    width: 520px;
+   margin-top:30px;
+}
+
+.sideimage{
+    padding: 50px 0px;
+    
+}
+.sideimage h1 {
+    color: #2977c9;
+}
+.sideimage p {
+    color: #000;
+    font-size: 20px;
+    margin-top: 20px;
+    font-weight: 300;
+}
