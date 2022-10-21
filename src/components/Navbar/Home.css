@@ -1,0 +1,14 @@
+.veni-slider{
+    width: 100% ;
+    height: 75vh ;
+    object-fit:cover ;
+    
+}
+.veni-cap{
+    justify-content: center;
+    font-size: 32px;
+    color:rgb(255, 255, 255);
+    font-weight: 800;
+    margin-bottom: 150px;
+}
+
